@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "716376769837",
+    "firebase_url": "https://smartbins-61f94.firebaseio.com",
+    "project_id": "smartbins-61f94",
+    "storage_bucket": "smartbins-61f94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716376769837:android:50b6cd3a8acd0c7d863fa4",
+        "android_client_info": {
+          "package_name": "com.example.smartbins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716376769837-vcss037416hlvksn5bjgnmst7d7eivl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartbins",
+            "certificate_hash": "b63e862494b8cfc85d82547404a3f30ed4ace797"
+          }
+        },
+        {
+          "client_id": "716376769837-qgjmv46mt242o0ahirt53uto0cn1ooeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKoeKcp9eR7YXKrDskOyAJ9mLqdNMUfS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716376769837-qgjmv46mt242o0ahirt53uto0cn1ooeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
